@@ -173,7 +173,7 @@ class bigcard extends StatelessWidget {
       color: theme.colorScheme.primary,
       elevation: 10,
       child: Padding(
-        padding: const EdgeInsets.all(20.0),
+        padding: const EdgeInsets.all(25.0),
         child: Text.rich(
           TextSpan(
             children: [
